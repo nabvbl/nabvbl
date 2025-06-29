@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=120&section=header&text=NABIL%20%7C%20Cybersecurity%20Student%20%26%20Fish%20Bro&fontColor=00FF00&fontSize=20&fontAlign=50&fontAlignY=35" />
-
 <h1 align="center">👋 Hi, I'm Nabil!</h1>
 
 <p align="center">
