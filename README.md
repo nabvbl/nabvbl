@@ -28,7 +28,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🕵️‍♂️ [Visual Cryptography System](https://github.com/nabilcyber/visual-crypto-nabil) | Encrypt & decrypt images using Python (Pillow, NumPy, Tkinter) |
+| 🕵️‍♂️ [Visual Cryptography System](https://github.com/nabvbl/visual-cryptography-python) | Encrypt & decrypt images using Python (Pillow, NumPy, Tkinter) |
 
 ---
 
