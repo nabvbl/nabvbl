@@ -1,8 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=120&section=header&text=NABIL%20%7C%20Cybersecurity%20Student%20%26%20Fish%20Bro&fontColor=00FF00&fontSize=20&fontAlign=50&fontAlignY=35" />
+
 <h1 align="center">👋 Hi, I'm Nabil!</h1>
 
 <p align="center">
   💻 Cybersecurity Diploma Student | 🐟 Fish Bro Founder | 🧠 Digital Forensics Enthusiast
 </p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Nabil;Cybersecurity+Student+%7C+Founder+FishBro;Python+Lover+%7C+Forensic+Tech+Explorer" alt="Typing SVG" />
+</h2>
 
 ---
 
@@ -17,10 +23,12 @@
 
 ### 🛠️ Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
@@ -40,8 +48,6 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=footer"/>
 </p>
-
